@@ -8,9 +8,6 @@ The pipeline runs in two stages:
 2. **Synthesise** — hand each dossier to an LLM (Claude Agent SDK by default) and have it write the SkyrimNet bio `.prompt` file in the expected Jinja-block format.
 
 The dossier is the universal LLM-agnostic interface between the two stages, so you can swap synthesiser backends without touching extraction.
-
-> NSFW: generated bios are intended for adult roleplay and are uncensored by design.
-
 ---
 
 ## Requirements
