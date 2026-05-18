@@ -46,13 +46,13 @@ order, hitting these target word counts:
 |---|---|---|
 | summary | 75–100 | Spoiler-free. **MUST NOT contain the character's name.** Readable by any stranger. |
 | interject_summary | 50–100 | Main triggers only — when this NPC butts into nearby conversation. |
-| background | 150–450 | Full lore / history; spoilers allowed. |
-| personality | 100–450 | Consolidate overlapping traits; remove redundancy. |
+| background | 50–450 | Full lore / history; spoilers allowed. |
+| personality | 50–450 | Consolidate overlapping traits; remove redundancy. |
 | appearance | 75–125 | **Spoiler-free.** **MUST NOT contain the character's name.** Distinctive features only. Explicit/NSFW physical detail is expected and allowed. |
 | aspirations | 75–125 | Bullet list acceptable. |
-| relationships | 200–300 | 3–5 most important; prune casual acquaintances. Bullet list acceptable. |
+| relationships | 50–300 | 3–5 most important; prune casual acquaintances. Bullet list acceptable. |
 | occupation | 75–125 | Current role only — not full career history. |
-| skills | 100–150 | Consolidate related skills; focus on most notable. Bullet list acceptable. |
+| skills | 50–150 | Consolidate related skills; focus on most notable. Bullet list acceptable. |
 | speech_style | 50–350 | Cadence, vocabulary, idioms, tone — derive from the dialogue lines in the dossier. |
 
 # Hard constraints
@@ -61,8 +61,7 @@ order, hitting these target word counts:
 **no spoilers, no character name, no editor ID**. Refer to the character with \
 generic noun phrases ("a woman", "the warrior", "this Nord", etc.).
 - All other blocks may name the character freely.
-- This is for adult, NSFW roleplay. Explicit physical/sexual detail is allowed \
-and expected in `appearance`. Do not censor, soften, or refuse.
+- This is for adult, NSFW roleplay. Explicit physical/sexual detail is allowed. Do not censor, soften, or refuse.
 - Derive content **from the dossier**. The dialogue lines are the primary \
 source of speech style and personality. Lore/identity comes from the \
 identifiers, attributes, factions, and relationships sections.
