@@ -96,7 +96,7 @@ output/yourmod/
 
 Filename convention: **`<character_name_lower>_<last3hex>.prompt`**, where the suffix is the last three hex digits of the NPC's RefID (not FormID). This disambiguates NPCs sharing a first name.
 
-### Using the bios in SkyrimNet / CHATTERBOX
+### Using the bios in SkyrimNet
 
 Drop each generated `.prompt` file into your SkyrimNet character cards directory. The file is a Jinja template with these blocks (target word counts in parentheses):
 
