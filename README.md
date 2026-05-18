@@ -1,6 +1,6 @@
 # SkyrimNet Dialogue Analyser
 
-Turn a Skyrim `.esp` plugin into ready-to-use **SkyrimNet / CHATTERBOX** character bios — one `.prompt` file per NPC, derived from every line of dialogue that NPC speaks in the mod.
+Turn a Skyrim `.esp` plugin into ready-to-use **SkyrimNet ** character bios — one `.prompt` file per NPC, derived from every line of dialogue that NPC speaks in the mod.
 
 The pipeline runs in two stages:
 
